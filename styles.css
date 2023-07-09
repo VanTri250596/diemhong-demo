@@ -1,0 +1,74 @@
+.Request-now {
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+  }
+  .Add-to-Cart {
+    background-color: rgb(255, 216, 20);
+    margin-bottom: 20px;
+    height: 60px;
+    width: 300px;
+    border-radius: 30px;
+    font-size: 30px;
+    border: none;
+  }
+  .Sign-up {
+    background-color: rgb(46, 164, 79);
+    margin-bottom: 20px;
+    height: 60px;
+    width: 180px;
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+  }
+  .Get-started {
+    background-color: rgb(121, 82, 179);
+    width: 200px;
+    height: 60px;
+    color: white;
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  .Download {
+    background-color: white;
+    width: 200px;
+    height: 60px;
+    color: rgb(155, 151, 151);
+    font-size: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    border-color: rgb(155, 151, 151);
+    border-style: solid;
+    margin-left: 10px;
+  }
+  .Apply-on-company-website {
+    background-color: rgb(28, 133, 182);
+    width: 450px;
+    height: 70px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .Save {
+    background-color: white;
+    width: 130px;
+    height: 60px;
+    color: rgb(28, 133, 182);
+    font-size: 30px;
+    border-radius: 30px;
+    border-color: rgb(28, 133, 182);
+    border-style: solid;
+    font-weight: bold;
+    margin-left: 10px;
+  }
